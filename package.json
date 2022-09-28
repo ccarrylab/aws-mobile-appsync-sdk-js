@@ -22,5 +22,10 @@
     "ts-jest": "24",
     "typescript": "~3.8",
     "zen-observable-ts": "^1.1.0"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/netinfo": "^5.9.4",
+    "aws-appsync": "^4.1.7"
   }
 }
